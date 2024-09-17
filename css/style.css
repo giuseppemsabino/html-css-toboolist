@@ -18,7 +18,7 @@
   }
 
   body{
-    background-color: grey;
+    background-color: rgb(246 248 250);
   }
 
  
@@ -80,6 +80,24 @@
   .object-points{
     line-height: 3;
     font-size: 1.1rem;
+  }
+
+  .check{
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(27, 238, 58);
+    color: rgb(27, 238, 58);
+    border-radius: 50%;
+  }
+
+  .cross{
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(233, 13, 13);
+    color: rgb(233, 13, 13);
+    border-radius: 50%;
   }
 
   .tickets{
