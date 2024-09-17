@@ -15,5 +15,8 @@
     max-width: 100%;
   }
 
+  .objects-list{
+    list-style-type: none;
+  }
 
   
