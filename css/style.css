@@ -9,27 +9,52 @@
   /* # UTILS */
   
   .container {
-    margin: 0 auto;
+    margin: 50px auto 20px  auto;
     padding: 0 10px;
     width: 1000px;
     max-width: 100%;
+    background-color: white;
+    
+  }
+
+  body{
+    background-color: grey;
   }
 
  
   .header-logo{
     line-height: 100px;
-    
-    
+    margin-left: 10px;
+    background-color: white;
   }
 
   .logo-boolean{
-    height: 100px;
+    height: 60px;
     vertical-align: middle;
   }
 
   .logo-title{
     display: inline;
   }
+
+  .buttons{
+    padding: 10px;
+    background-color: rgb(180, 96, 96);
+  }
+
+  .add-task{
+    background-color: aqua;
+    padding: 3px;
+    border-radius: 5px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .add-task:hover{
+    background-color: blue;
+  }
+
+  
   
   
   
