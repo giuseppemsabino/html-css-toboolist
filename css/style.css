@@ -79,17 +79,39 @@
 
   .object-points{
     line-height: 3;
+    font-size: 1.1rem;
   }
 
   .tickets{
-    font-size: .7rem;
+    font-size: .8rem;
     color: white;
-    border: 1px solid black;
-    border-radius: 6px; 
+    border: 1px solid gray;
+    border-radius: 10px; 
     background-color:#47a6ec; 
-    padding: 1px;
+    padding: 8px;
+    
   }
 
-  .tickets 
+  #goals{
+    background-color: #9b7ce3;
+  }
+
+  #recruiting{
+    background-color: #5fb7a7 ;
+  }
+
+  #mobile{
+    background-color: #f8a031;
+  }
+
+  #website{
+    background-color: #de729b ;
+  }
+
+  #sales{
+    background-color:#afba24 ;
+  }
+
+
 
   
