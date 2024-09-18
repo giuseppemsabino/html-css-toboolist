@@ -25,18 +25,19 @@
  
   .header-logo{
     line-height: 100px;
-    margin-left: 10px;
     background-color: white;
   }
 
   .logo-boolean{
     height: 60px;
     vertical-align: middle;
+    margin-left: 15px;
   }
 
   .logo-title{
     display: inline;
     font-size: 3rem;
+    vertical-align: middle;
   }
 
   .buttons{
